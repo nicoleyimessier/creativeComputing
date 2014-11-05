@@ -1,0 +1,5 @@
+class colorClass{
+  
+ int colorImage;  
+ 
+}
