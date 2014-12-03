@@ -6,7 +6,7 @@ int counter;
 
 void setup() {
   background(255);
-  size(500, 500);
+  size(1440, 1440);
   centerX = width/2;
   centerY = height/2;
   counter = 0;
